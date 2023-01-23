@@ -1,0 +1,20 @@
+playVideo:load.mp4
+bgm:start.mp3;
+changeBg:start.jpg;
+changeFigure:ssp2.png;
+
+:哈喽，没想到可以在这里见到我吧。;
+changeFigure:ssp1.png -next;
+这是我最新的皮囊哦，可爱吧，我画的哦。;
+但有点小问题，就是我最近才刚刚学会怎么穿越到游戏世界里，还没怎么适应这个皮，所以能做出来的表情稍微有一点点少...;
+:哎呀，本来是打算你生日的时候再和你见面的，但是看到你日夜消沉我真是太担心了，所以就提前跑来啦。;
+也没什么大事，就是单纯想把自己以前的事情分享给你，虽然可能与你现在的处境相比算不了什么...;
+changeFigure:smile.png;
+changeFigure:ssp1.png -next;
+曾经我很害怕别人了解我，害怕提起自己的事情，但在产生这样那样的思考后，我觉得说一些自己的事情，也是无妨的。;
+changeFigure:smile.png;
+changeFigure:ssp1.png -next;
+嗯...因为篇幅较长，所以我分为几节，你可以点击任意一节跳转哦。;
+当然，选择之前请存档。还有，建议按顺序阅读，因为故事之间有一定逻辑联系。;
+就当作看小说或者看故事吧。;
+changeScene:choose.txt;

@@ -1,0 +1,4 @@
+bgm:start.mp3;
+changeBg:start.jpg;
+changeFigure:ssp2.png;
+choose:Story 1 喜欢戴耳机的真正原因:Story1.txt|Story 2 母亲的“爱”:story2.txt|Story 3 我伤害过的人:story3.txt|上面的都看完了:end.txt -next;

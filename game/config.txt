@@ -1,0 +1,4 @@
+Game_name:011000010110110001101001011101100110010100001010;
+Game_key:161dd7ce68faf17;
+Title_bgm:tiankong.mp3;
+Title_img:title.jpg;
